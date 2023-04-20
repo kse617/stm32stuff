@@ -1,0 +1,3 @@
+C:/dev/stm32stuff/stm32stuff/build/debug/build/CMakeFiles/stm32stuff.dir
+C:/dev/stm32stuff/stm32stuff/build/debug/build/CMakeFiles/edit_cache.dir
+C:/dev/stm32stuff/stm32stuff/build/debug/build/CMakeFiles/rebuild_cache.dir
